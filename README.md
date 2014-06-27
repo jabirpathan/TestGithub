@@ -1,4 +1,4 @@
 TestGithub
 ==========
 
-Testing Github
+Github is a repository
